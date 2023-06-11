@@ -2,8 +2,8 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #fff;
-    margin: 20px;
+    background-color:rgb(80,80,80);
+    margin: 10px;
 
 }
 .nav-links{
